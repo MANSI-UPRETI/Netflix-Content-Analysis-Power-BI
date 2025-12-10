@@ -1,6 +1,7 @@
 
 ### 📊 Netflix Content Analysis — Power BI
 **Domain:** Streaming & Entertainment
+
 **Tools Used:** Power BI
 
 This project delivers an in-depth analysis of Netflix’s global content library to uncover trends that influence platform strategy and audience engagement.
